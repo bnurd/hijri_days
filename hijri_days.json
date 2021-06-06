@@ -1,0 +1,83 @@
+[
+    {
+        "hijriDay": "9",
+        "hijriMonth": "ZİLHİCCE",
+        "hijriYear": "1442",
+        "miladiDay": "19",
+        "miladiMonth": "TEMMUZ",
+        "miladiYear": "2021",
+        "miladiWeeyDay": "PAZARTESİ",
+        "title": "AREFE"
+    },
+    {
+        "hijriDay": "10",
+        "hijriMonth": "ZİLHİCCE",
+        "hijriYear": "1442",
+        "miladiDay": "20",
+        "miladiMonth": "TEMMUZ",
+        "miladiYear": "2021",
+        "miladiWeeyDay": "SALI",
+        "title": "KURBAN BAYRAMI (1.Gün)"
+    },
+    {
+        "hijriDay": "11",
+        "hijriMonth": "ZİLHİCCE",
+        "hijriYear": "1442",
+        "miladiDay": "21",
+        "miladiMonth": "TEMMUZ",
+        "miladiYear": "2021",
+        "miladiWeeyDay": "ÇARŞAMBA",
+        "title": "KURBAN BAYRAMI (2.Gün)"
+    },
+    {
+        "hijriDay": "12",
+        "hijriMonth": "ZİLHİCCE",
+        "hijriYear": "1442",
+        "miladiDay": "22",
+        "miladiMonth": "TEMMUZ",
+        "miladiYear": "2021",
+        "miladiWeeyDay": "PERŞEMBE",
+        "title": "KURBAN BAYRAMI (3.Gün)"
+    },
+    {
+        "hijriDay": "13",
+        "hijriMonth": "ZİLHİCCE",
+        "hijriYear": "1442",
+        "miladiDay": "23",
+        "miladiMonth": "TEMMUZ",
+        "miladiYear": "2021",
+        "miladiWeeyDay": "CUMA",
+        "title": "KURBAN BAYRAMI (4.Gün)"
+    }  ,
+    {
+        "hijriDay": "1",
+        "hijriMonth": "MUHARREM",
+        "hijriYear": "1443",
+        "miladiDay": "9",
+        "miladiMonth": "AĞUSTOS",
+        "miladiYear": "2021",
+        "miladiWeeyDay": "PAZARTESİ",
+        "title": "HİCRİ YILBAŞI"
+    },
+    {
+        "hijriDay": "10",
+        "hijriMonth": "MUHARREM",
+        "hijriYear": "1443",
+        "miladiDay": "18",
+        "miladiMonth": "AĞUSTOS",
+        "miladiYear": "2021",
+        "miladiWeeyDay": "ÇARŞAMBA",
+        "title": "AŞURE GÜNÜ"
+    },
+    {
+        "hijriDay": "11",
+        "hijriMonth": "R.EVVEL",
+        "hijriYear": "1442",
+        "miladiDay": "17",
+        "miladiMonth": "EKİM",
+        "miladiYear": "2021",
+        "miladiWeeyDay": "PAZAR",
+        "title": "MEVLİD KANDİLİ"
+    }
+
+]
